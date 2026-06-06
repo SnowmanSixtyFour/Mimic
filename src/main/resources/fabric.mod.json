@@ -7,12 +7,16 @@
 	"authors": [
 		"Snowman64"
 	],
+	"contributors": [
+		"Hazel.xml",
+		"The original Herobrine thread"
+	],
 	"contact": {
-		"homepage": "https://github.com/SnowmanSixtyFour/MimicMod",
-		"sources": "https://github.com/SnowmanSixtyFour/MimicMod",
-		"issues": "https://github.com/SnowmanSixtyFour/MimicMod/issues"
+		"homepage": "https://github.com/SnowmanSixtyFour/Mimic",
+		"sources": "https://github.com/SnowmanSixtyFour/Mimic",
+		"issues": "https://github.com/SnowmanSixtyFour/Mimic/issues"
 	},
-	"license": "MIT",
+	"license": "GNU GPL v3.0",
 	"icon": "assets/mimic/icon.png",
 	"environment": "*",
 	"entrypoints": {
