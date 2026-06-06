@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/SnowmanSixtyFour/Mimic">
+<a href="https://modrinth.com/project/snowman64-mimic">
   <img align="center" src="repo/logo.png" alt="Mimic">
 </a>
 <br>
